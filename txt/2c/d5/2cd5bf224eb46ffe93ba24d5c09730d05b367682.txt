@@ -1,0 +1,8 @@
+>>3ce77c1c01c815e691215c8bb3ed8a08ba4257ef
+
+add profile page
+e13e31e43e420ba7b0a97962ee45fa4046f949e7
+
+ok, I added profile page with basic cookie authentication.
+
+===
